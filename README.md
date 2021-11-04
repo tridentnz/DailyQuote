@@ -1,2 +1,2 @@
-# DailyQuote
-Quote of the day
+# TerminalQuotes
+Displays a quote in your terminal.
